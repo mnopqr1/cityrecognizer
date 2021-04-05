@@ -3,4 +3,4 @@ Testing out Chapter 2 of the [Fast AI course](https://course.fast.ai/): recogniz
 
 Here is a live demo that allows you to upload your own image from one of those cities to try it out:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mnopqr1/cityrecognizer/HEAD?filepath=voila%2Frender%2Fcityrecognizewidget.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mnopqr1/cityrecognizer/HEAD?urlpath=voila%2Frender%2Fcityrecognizewidget.ipynb)
